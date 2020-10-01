@@ -1,9 +1,9 @@
 {
-	"author": "Denise Vissepo",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"author": "Denise Vissepo",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
