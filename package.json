@@ -1,7 +1,16 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"description": "A project for the APIs and Microservices certification in Free Code Camp!",
+	"keywords": [ 
+		"API", 
+		"NPM", 
+		"boilerplate", 
+		"JavaScript", 
+		"microservices" ],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.17.1"
 	},
 	"author": "Denise Vissepo",
 	"main": "server.js",
